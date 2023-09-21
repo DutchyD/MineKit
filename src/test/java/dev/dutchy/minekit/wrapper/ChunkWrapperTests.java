@@ -1,4 +1,4 @@
-package dev.dutchy.minekit.chunk;
+package dev.dutchy.minekit.wrapper;
 
 import org.bukkit.Chunk;
 import org.bukkit.World;
