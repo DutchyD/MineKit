@@ -1,0 +1,11 @@
+name: MineKit
+main: dev.dutchy.minekit.MineKit
+version: 1.0.0
+api-version: 1.20
+author: Dylan 'Dutchy' de Beer
+description: A plugin that adds a bunch of useful utility.
+commands:
+    minekit:
+        description: Main command for MineKit
+        usage: /minekit <subcommand>
+        permission: minekit.command
